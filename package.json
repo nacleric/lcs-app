@@ -1,0 +1,11 @@
+{
+  "name": "vanilla_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "author": "eric ng",
+  "license": "ISC"
+}
