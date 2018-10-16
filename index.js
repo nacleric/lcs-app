@@ -9,7 +9,7 @@ async function fetchMatch() {
     const res = await fetch(matchurl)
     const json = await res.json();
 
-    const main = document.querySelector(foobar);
+    const main = document.querySelector('main');
 
     json.matches.forEach(#match => {
         const el = document.createElement('match-history');
