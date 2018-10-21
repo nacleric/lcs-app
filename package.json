@@ -7,5 +7,6 @@
     "test": "npm run index.js"
   },
   "author": "eric ng",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }

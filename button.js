@@ -1,4 +1,4 @@
-class LcsMatchHistory extends HTMLElement {
+class FactButton extends HTMLElement {
     constructor() {
         super()
         //shadow root used to encapsulate styling
@@ -18,5 +18,5 @@ class LcsMatchHistory extends HTMLElement {
     }
     */
 }
-// class LcsMatchHistory is passed into 'lcs-match'. turns into custom element 
-customElements.define('lcs-match', LcsMatchHistory)
+// class CurrentWeather is passed into 'current-weather'. turns into custom element 
+customElements.define('fact-button', FactButton)
