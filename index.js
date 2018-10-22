@@ -1,3 +1,4 @@
+import '/factwindow.js';
 document.getElementById('fetchbutton').addEventListener('click', fetchPokemon);
 
 //selects the parent element and creates the children elements
