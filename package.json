@@ -8,5 +8,7 @@
   },
   "author": "eric ng",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "bulma": "^0.7.2"
+  }
 }
